@@ -5,13 +5,13 @@
         "temps": 11.85
     },
     {
-        "pseudo": "Dra/usr/bin/python \"/home/draken/Documents/Projet pyhton/Jeu_devinette/main.py\"",
-        "essais": 6,
-        "temps": 58.02
-    },
-    {
         "pseudo": "Draken",
         "essais": 3,
         "temps": 11.17
+    },
+    {
+        "pseudo": "Rakoto",
+        "essais": 8,
+        "temps": 19.62
     }
 ]

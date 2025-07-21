@@ -3,6 +3,8 @@
 from jeu import JeuDevinette
 
 def main():
+    """Programme principal pour lancer le jeu de devinette et gérer les scores
+    """
     print("Bienvenue dans le jeu de devinette !")
     pseudo = input("Entrez votre nom : ")
 
