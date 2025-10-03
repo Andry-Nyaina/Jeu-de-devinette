@@ -67,7 +67,7 @@ jeu_devinette/
 
 ### Pré-requis
 
-- Installation de Python 3
+- Installation de Python 3.x
 
 ### Exécution
 
